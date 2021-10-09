@@ -1,0 +1,32 @@
+h1 {
+  color: #coral;
+  font-size: 120%;
+}
+p {
+  font-family: monospace;
+  text-indent: 20px;
+  margin-left: 20px;
+}
+#paragraph {
+  background-color: coral;
+  width: 500px;
+  padding: 15px;
+  border: solid 1px #444444;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body {
+  background-color: lightblue;
+}
+#my-portrait {
+    width: 300px;
+    height: 400px;
+}
