@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+  font-size: 120%;
+}
+p {
+  font-family: monospace;
+  text-indent: 20px;
+  margin-left: 20px;
+}
+#content {
+  background-color: #cccccc;
+  width: 500px;
+  padding: 15px;
+  border: solid 1px #444444;
+  font-size: 15px;
+}
