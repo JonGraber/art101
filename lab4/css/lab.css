@@ -1,0 +1,20 @@
+#task1 {
+  background-color: coral;
+  width: 500px;
+  padding: 15px;
+  border: solid 1px #444444;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#task2 {
+  background-color: red;
+  width: 800px;
+  padding: 15px;
+  border: solid 1px #444444;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color: cadetblue;
