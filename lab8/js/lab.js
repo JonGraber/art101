@@ -26,4 +26,4 @@ console.log("Times two: ", array2x)
 sqrroot = jArray.map(function(n){
   return Math.sqrt(n);
 });
-console.log("Two to the: ", sqrroot)
+console.log("Square root of: ", sqrroot)
