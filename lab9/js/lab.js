@@ -8,7 +8,7 @@
  // Use getElementById() to find your output <div> and assign it to a variable outputEl
 
 document.getElementById('output')
-document.getElementById('output') = var outputEl
+var outputEl = document.getElementById('output')
 outputEL.innerHTML = "<button id=mybutton>Press this Button!</button>";
 
  var new1El = document.createElement("button2")
