@@ -1,0 +1,14 @@
+body {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: "Lucida Handwriting", Cursive;
+}
+p {
+
+  text-indent: 20px;
+  margin-left: 20px;
+}
+html {
+  background: url(https://i.pinimg.com/originals/38/fd/6d/38fd6d7c645400258715a83612c6c48f.jpg) no-repeat center fixed;
+  background-size: cover;
+}
