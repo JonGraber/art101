@@ -1,0 +1,14 @@
+body {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: "Copperplate", Fantasy;
+}
+p {
+
+  text-indent: 20px;
+  margin-left: 20px;
+}
+html {
+  background: url(https://pyxis.nymag.com/v1/imgs/a83/9ad/28e87776f36d81b09d4447b594f6872f98-Donald-Trump-Funny-20.2x.rhorizontal.w700.jpg) no-repeat center fixed;
+  background-size: cover;
+}
